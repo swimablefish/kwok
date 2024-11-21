@@ -24,3 +24,6 @@ affinity: {}
 
 # -- The replica count for Deployment.
 replicas: 1
+
+# -- Controls whether the pod to use `hostNetwork` to avoid the issue #819 for kind clusters.
+hostNetwork: false
