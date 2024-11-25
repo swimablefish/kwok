@@ -1,0 +1,68 @@
+apiVersion: v1
+entries:
+  kwok:
+  - apiVersion: v2
+    appVersion: v0.6.1
+    created: "2024-11-25T07:08:40.446812079Z"
+    description: KWOK (Kubernetes WithOut Kubelet)
+    digest: 9a0e6af55e0834e1ddb12a401dfd10fa98f410f84faa677cc1e444da1d428e2d
+    home: https://kwok.sigs.k8s.io
+    icon: https://github.com/kubernetes-sigs/kwok/raw/main/logo/kwok.png
+    keywords:
+    - kubernetes
+    - kwok
+    maintainers:
+    - email: wzshiming@hotmail.com
+      name: wzshiming
+    name: kwok
+    sources:
+    - https://github.com/kubernetes-sigs/kwok
+    type: application
+    urls:
+    - https://github.com/swimablefish/kwok/releases/download/kwok-0.1.2/kwok-0.1.2.tgz
+    version: 0.1.2
+  metrics-usage:
+  - apiVersion: v2
+    appVersion: v0.6.1
+    created: "2024-11-25T07:08:40.562032897Z"
+    description: Default metrics usage policy of KWOK (Kubernetes WithOut Kubelet)
+    digest: 5ad496a69b4316d5d411a56bd905cd529ec664a45eb63721784ee6383036f8dd
+    home: https://kwok.sigs.k8s.io
+    icon: https://github.com/kubernetes-sigs/kwok/raw/main/logo/kwok.png
+    keywords:
+    - kubernetes
+    - kwok
+    - kwok metrics usage policy
+    maintainers:
+    - email: wzshiming@hotmail.com
+      name: wzshiming
+    name: metrics-usage
+    sources:
+    - https://github.com/kubernetes-sigs/kwok
+    type: application
+    urls:
+    - https://github.com/swimablefish/kwok/releases/download/metrics-usage-0.1.1/metrics-usage-0.1.1.tgz
+    version: 0.1.1
+  stage-fast:
+  - apiVersion: v2
+    appVersion: v0.6.1
+    created: "2024-11-25T07:08:40.682233384Z"
+    description: Default stage policy of KWOK (Kubernetes WithOut Kubelet)
+    digest: 4fa70c61151a65ef0584ae8e9db44eb475418c0ff5b72e6d934389dd8b9ec116
+    home: https://kwok.sigs.k8s.io
+    icon: https://github.com/kubernetes-sigs/kwok/raw/main/logo/kwok.png
+    keywords:
+    - kubernetes
+    - kwok
+    - kwok stage policy
+    maintainers:
+    - email: wzshiming@hotmail.com
+      name: wzshiming
+    name: stage-fast
+    sources:
+    - https://github.com/kubernetes-sigs/kwok
+    type: application
+    urls:
+    - https://github.com/swimablefish/kwok/releases/download/stage-fast-0.1.1/stage-fast-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-11-25T07:08:40.682242552Z"
